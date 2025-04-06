@@ -1,4 +1,3 @@
-readme_content = """
 # Bash Script: File Analysis
 
 This Bash script helps to analyze files in a specified directory by performing three tasks:
@@ -21,6 +20,4 @@ This Bash script helps to analyze files in a specified directory by performing t
 ```bash
 ./your_script_name.sh /path/to/directory
 
-## 📎 Author
 
-Konstantinos Kotsaras
